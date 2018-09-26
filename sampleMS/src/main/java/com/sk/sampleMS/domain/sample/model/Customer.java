@@ -26,5 +26,4 @@ private RoleType roleType;
 @Column(length=1000)
 private Address address;
 
-	
 }
